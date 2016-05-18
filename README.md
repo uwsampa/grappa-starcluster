@@ -18,7 +18,7 @@ starcluster -c grappacluster.config start -s 2 -i r3.xlarge mygrappacluster
 When the cluster has started, ssh into the master.
 
 ```bash
-starcluster -c grappacluster.config sshmaster
+starcluster -c grappacluster.config sshmaster mygrappacluster
 ``` 
 
 ## Use the cluster
