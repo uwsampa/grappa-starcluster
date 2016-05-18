@@ -79,6 +79,6 @@ I0518 16:48:48.852210  1356 hello_world.cpp:45] Hello world from locale 1 core 1
 I0518 16:48:48.852695  1346 hello_world.cpp:45] Hello world from locale 1 core 6
 ```
 
-## Rebuilding your own AWS image
+## Rebuilding the AMI
 
 Coming soon...
