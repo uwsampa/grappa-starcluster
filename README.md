@@ -1,5 +1,8 @@
 # grappa-starcluster
 
+[Grappa](https://github.com/uwsampa/grappa) running in the Amazon cloud, using
+StarCluster.
+
 ## Setup
 
 [Install StarCluster](http://star.mit.edu/cluster/docs/latest/installation.html).
